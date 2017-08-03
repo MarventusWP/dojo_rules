@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * Favourite CodeSchool Path: HTML
 * Killing history using git rebase
+* Killing history using git rebase
