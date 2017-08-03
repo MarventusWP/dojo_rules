@@ -6,4 +6,6 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-* Favourite CodeSchool Path: JavaScript
+* Favourite CodeSchool Path: HTML
+* Killing history using git rebase
+* Killing history using git rebase
